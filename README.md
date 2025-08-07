@@ -1,22 +1,18 @@
 <div align="center">
-  
-  <table width="100%" style="border: none;">
-    <tr>
-      <td style="background: linear-gradient(135deg, #2c2c2c 0%, #3a3a3a 100%); padding: 40px; border-radius: 15px; border: none;">
-        <h1 align="center" style="color: #f5f5dc; margin: 0; font-size: 3em; font-weight: bold;">
-          Hi, I'm Jamil 👋
-        </h1>
-        <h3 align="center" style="color: #deb887; margin: 10px 0 30px 0; font-size: 1.5em; font-weight: 300;">
-          A Full Stack Web Developer
-        </h3>
-        <p align="center" style="color: #f5f5dc; font-size: 1.1em; line-height: 1.6; max-width: 600px; margin: 0 auto;">
-          <strong>🧑‍💻 About Me</strong><br><br>
-          Hi! I'm Jamil Ahmed, a Full Stack Web Developer with a strong interest in creating dynamic and responsive web applications. I enjoy working with modern JavaScript technologies. Currently diving deeper into advanced frameworks and full-stack architectures.
-        </p>
-      </td>
-    </tr>
-  </table>
-  
+  <div style="position: relative; width: 100%; height: 400px; background-image: url('https://i.postimg.cc/8CbF153y/helpdesk-heroes-VTquhp-An99c-unsplash-min.jpg`'); background-size: cover; background-position: center; background-repeat: no-repeat; border-radius: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+    
+<h1 style="color: #f5f5dc; font-size: 4em; font-weight: extra-bold; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+      Hi, I'm Jamil Ahmed
+    </h1>
+
+<div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 10px; max-width: 600px;">
+      <h4 style="color: #f5f5dc; margin: 0 0 15px 0; font-size: 1.4em;">🧑‍💻 About Me</h4>
+      <p style="color: #f5f5dc; font-size: 1em;font-weight: bold; line-height: 1.6; margin: 0;">
+        A Full Stack Web Developer with a strong interest in creating dynamic and responsive web applications. I enjoy working with modern JavaScript technologies. Currently diving deeper into advanced frameworks and full-stack architectures.
+      </p>
+    </div>
+    
+  </div>
 </div>
 
 ---
@@ -80,12 +76,6 @@
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=What6499&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-  
-</div>
-
 ---
 
 ## 🌐 Let's Connect
@@ -94,7 +84,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil-ahmed201)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:what6499@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/What6499)
   
 </div>
 
@@ -102,7 +91,7 @@
 
 <div align="center">
   
-  ### 💫 *"Consistency is more important than perfection."*
+ 
   
   **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
   
