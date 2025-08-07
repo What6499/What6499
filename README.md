@@ -1,18 +1,17 @@
 <div align="center">
-  <div style="position: relative; width: 100%; height: 400px; background-image: url('https://i.postimg.cc/8CbF153y/helpdesk-heroes-VTquhp-An99c-unsplash-min.jpg`'); background-size: cover; background-position: center; background-repeat: no-repeat; border-radius: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-    
-<h1 style="color: #f5f5dc; font-size: 4em; font-weight: extra-bold; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-      Hi, I'm Jamil Ahmed
-    </h1>
+  <div align="center">
 
-<div style="background: rgba(0,0,0,0.6); padding: 20px; border-radius: 10px; max-width: 600px;">
-      <h4 style="color: #f5f5dc; margin: 0 0 15px 0; font-size: 1.4em;">🧑‍💻 About Me</h4>
-      <p style="color: #f5f5dc; font-size: 1em;font-weight: bold; line-height: 1.6; margin: 0;">
-        A Full Stack Web Developer with a strong interest in creating dynamic and responsive web applications. I enjoy working with modern JavaScript technologies. Currently diving deeper into advanced frameworks and full-stack architectures.
-      </p>
-    </div>
-    
-  </div>
+  <img src="https://i.postimg.cc/8CbF153y/helpdesk-heroes-VTquhp-An99c-unsplash-min.jpg" alt="Banner" style="width:100%; max-height:400px; border-radius: 15px; object-fit: cover;" />
+
+  <h1>Hi, I'm Jamil Ahmed</h1>
+
+  <h4>🧑‍💻 About Me</h4>
+  
+  <p>
+    A Full Stack Web Developer with a strong interest in creating dynamic and responsive web applications. I enjoy working with modern JavaScript technologies. Currently diving deeper into advanced frameworks and full-stack architectures.
+  </p>
+
+</div>
 </div>
 
 ---
