@@ -69,5 +69,5 @@ A passionate Full Stack Developer with a love for building responsive and dynami
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=What6499&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=What6499&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=What6499&layout=compact&theme=github_dark&hide_border=true" />
+  
 </p>
